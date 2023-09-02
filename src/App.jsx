@@ -1,5 +1,11 @@
+import BackgroundGen from "./components/BackgroundGen";
+
 const App = () => {
-  return <div>App</div>;
+  return (
+    <div>
+      <BackgroundGen />
+    </div>
+  );
 };
 
 export default App;
