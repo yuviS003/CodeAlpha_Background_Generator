@@ -53,7 +53,7 @@ const BackgroundGen = () => {
 
   return (
     <div
-      className={`w-screen h-screen transition-all duration-300 flex flex-col items-center px-10 md:px-20 lg:px-28 py-10 md:py-16`}
+      className={`h-screen transition-all duration-300 flex flex-col items-center px-10 md:px-20 lg:px-28 py-10 md:py-16`}
       style={{ backgroundColor: hexColor }}
     >
       <div className="w-full flex items-center justify-between">
